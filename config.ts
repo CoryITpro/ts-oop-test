@@ -1,0 +1,2 @@
+const DEFAULT_PROFILE_IMAGE = "1.jpg"
+export { DEFAULT_PROFILE_IMAGE }
